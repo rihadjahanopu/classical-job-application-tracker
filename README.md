@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/briefcase.svg" alt="JobTracker Logo" width="80" height="80">
+
   <h1 align="center">JobTracker</h1>
   <p align="center">
     <strong>A Premium, Classical Job Application Tracking Dashboard</strong>
